@@ -9,8 +9,7 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
 /**
- *
- * @author san-k
+ * @author sanek72
  */
 public class KeyInputHandler extends KeyAdapter  {
     private Snake snake;

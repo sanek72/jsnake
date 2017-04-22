@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ru.snake;
 
 import java.awt.*;
@@ -13,7 +9,7 @@ import javax.swing.*;
 
 /**
  *
- * @author san-k
+ * @author sanek72
  */
 public class SnakeGame extends JFrame implements ActionListener {
 
@@ -78,7 +74,4 @@ private Timer timer;
         repaint();// пересовываю        
     }
     
-//    private void lostGame(){
-//        System.out.println("lose");
-//    }
 }

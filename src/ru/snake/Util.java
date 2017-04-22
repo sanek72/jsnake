@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ru.snake;
 
 /**
- *
- * @author san-k
+ * @author sanek72
  */
 public class Util {
     
@@ -23,6 +18,6 @@ public class Util {
 //
 //	return Toolkit.getDefaultToolkit().createImage(sourceImage.getSource());
 //		
-//}   http://sbp-program.ru/java/sbp-graphics.htm
+//}  
     
 }
